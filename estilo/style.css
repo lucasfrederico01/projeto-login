@@ -57,8 +57,7 @@ section#login> div#imagem{
     background-position: center center;
 }
 
-form > input[type=submit]{
+form > input [type=input]{
     display: block;
-    width: 100%;
     background-color: #49a09d;
 }
